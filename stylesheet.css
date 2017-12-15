@@ -1,0 +1,137 @@
+html{background: url(/C:/Users/KofoGbadey/Documents/html/background.jpg)no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+body { font-family: Arial, sans-serif;
+}
+
+
+.ProfPc{ margin:auto;
+display:block;
+border-radius:50%;
+height:200px;
+width:200px;
+}
+
+
+#body {
+    width: 900px;
+    background: rgba(0,0,0,0.4);
+    
+   
+} 
+
+.fa fa-envelope {
+font-size:20px;
+color:black;
+}
+
+
+.fa fa-instagram {
+font-size:20px;
+color:blue;
+
+}
+
+.fa fa-twitter {
+font-size:20px;
+color:black;
+}
+
+.fa fa-linkedin{
+font-size:20px;
+color:black;
+}
+
+
+
+.checked {
+    color: orange;
+}
+
+#body {
+    
+    font-size: 14px;
+    float: left; 
+    
+}
+
+#header {
+background: rgba(0,0,0,0.4);;
+    padding-top: 10px;
+    padding-bottom:10px;
+    margin-top: 5px;
+    color: blac; 
+}
+
+#body {
+    font-size: 14px;
+    color: blac; 
+
+}
+ 
+#body h2 {
+    font-size: 14px;
+    color: blac; 
+}
+ 
+#body p {
+    font-size: 14px;
+    color: blac; 
+
+
+}
+#sidebar {
+    float: left; 
+    margin-left: 20px;
+    margin-top: 20px;
+    
+   background: rgba(0,0,0,0.4);
+    
+    padding: 10px;
+}
+
+#sidebar h5 {
+    font-size: 24px;
+    color: black;
+    font-weight: normal;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+#sidebar ul {
+    list-style: none;
+    padding-bottom: 25px;
+}
+ 
+#sidebar ul li a {
+    font-size: 20px;
+    color: #393838; 
+}
+ 
+ul#subscribe li {
+    padding-bottom: 5px; 
+}
+ 
+ul#subscribe li a {
+    font-size: 20px; 
+}
+
+#footer {
+    background: rgba(0,0,0,0.4);
+    padding-top: 10px;
+    padding-bottom:10px;
+    
+    color: black ;
+    font-size: 14px; 
+}
+
+
+
+
+
+
+
